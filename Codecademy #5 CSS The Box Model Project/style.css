@@ -1,0 +1,60 @@
+*{
+
+    box-sizing:border-box;
+        padding:0;
+    margin:0;
+
+}
+body{
+     font-family: 'UnifrakturMaguntia', serif;
+    padding:0;
+    margin:0;
+    background-image: url("https://i.pinimg.com/originals/82/16/c8/8216c8707cffc182256a5c7790209bb2.jpg");
+}
+header{
+margin: 0 auto;
+width:100%;
+min-width:700px;
+max-width:1000px;
+text-align:center;
+}
+header img{
+    display: block;
+    margin: 0 auto;
+   width:70%;
+     border: 70px inset #e9d7c3;
+    border-radius:100px;
+}
+header h1{
+
+font-size:70px;
+
+
+}
+ 
+header p{
+  
+    padding-top:50px;
+  font-size:35px;  
+}
+
+
+.Gallery{
+width: 100%;
+text-align:center;
+
+}
+#Home p{
+    font-size:35px;
+    padding-top:50px;
+    padding-bottom:50px;
+
+}
+.Gallery img{
+    margin:0 40px;
+    width:25%;
+     border: 70px inset #e9d7c3;
+    border-radius:100px;
+
+
+}
